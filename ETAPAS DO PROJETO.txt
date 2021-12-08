@@ -1,0 +1,24 @@
+Passo 1- > Explicação do Problema e do Objetivo
+Passo 2 -> Importar Bibliotecas e Bases de Dados
+Passo 3 -> Consolidar Bases de Dados
+Passo 4 -> Se tivermos muitas colunas, já vamos identificar quais podemos descartar
+Passo 5 -> Tratar Valores Faltando
+Passo 5 -> Verificar Tipos de Dados em cada coluna
+Passo 7 -> Naálise Explortória e Tratar Outliers
+	- Dados Numériicos Contínuos e Discretos
+	- Ddos de Texto (Categorias)
+	- Dados em Lista
+	- Dados em Mapa
+
+Passo 8 -> Encoding
+	- Dados True ou False
+	- Dados Categoria Texto
+
+Passo 9 -> Modelo de Previsão
+	- Métricas de Avaliação
+	- Definição do Tipo de Modelo
+	- Escolha dos Modelos a Testar
+	- Treino e Avaliação
+
+Passo 10 -> Análise do Melhor Modelo
+Passo 11 -> Ajustes e Melhorias no Melhor Modelo
