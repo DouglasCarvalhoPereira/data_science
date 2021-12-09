@@ -1,5 +1,7 @@
 # Projeto Airbnb Rio - Ferramenta de Previsão de Preço de Imóvel para pessoas física
 
+<h5 style="color: red">Base de dados no repositório apenas com 1000 linhas</h5>
+
 ### Contexto
 
 No Airbnb, qualquer pessoa que tenha um quarto ou um imóvel de qualquer tipo (apartamento, casa, chalé, pousada, etc.) pode ofertar o seu imóvel para ser alugado por diária.
