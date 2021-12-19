@@ -1,4 +1,4 @@
-# Projeto Airbnb Rio - Ferramenta de Previsão de Preço de Imóvel para pessoas física
+# Projeto Airbnb Rio - Ferramenta de Previsão/Precificação de Preço de Imóvel para pessoas física
 
 <h5 style="color: red">Base de dados no repositório apenas com 1000 linhas</h5>
 
@@ -39,3 +39,29 @@ Você vai perceber semelhanças entre a solução que vamos desenvolver aqui e a
 - Adicionais/Comodidades podem ter um impacto significativo, visto que temos muitos prédios e casas antigos no Rio de Janeiro
 
 Vamos descobrir o quanto esses fatores impactam e se temos outros fatores não tão intuitivos que são extremamente importantes.
+
+### Deploy com Streamlit
+- Usuário preenche com a caracteristicas do imóvel localizado no Rio de Janeiro/RJ
+
+![image](https://user-images.githubusercontent.com/65472072/146680392-facb47e6-a210-4b72-bda9-86e7e4cbd26e.png)
+
+![image](https://user-images.githubusercontent.com/65472072/146680448-36cbee23-3117-4036-836f-675d3f622885.png)
+
+![image](https://user-images.githubusercontent.com/65472072/146680477-34d5ce6a-ddfe-43ad-b8fd-eed1fabeb178.png)
+
+
+#### Bibliotecas utilizadas
+- Todas as bibliotecas utilizadas no projeto listadas abaixo.
+
+1. pandas -> Dataframes
+2. pathlib -> Diretório local
+3. numpy -> Gráficos e calculos
+4. seaborn -> Gráficos
+5. matplotlib -> Gráficos
+6. plotly -> Gráfico interativo
+7. sklearn -> Machine Learnig
+8. streamlit -> Deploy user
+9. joblib -> Deploy user
+
+
+Para ter acesso a base de dados utilizada ou tirar dúvidas favor entrar em contato no email carvalhodouglaspereira@gmail.com
