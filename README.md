@@ -43,12 +43,9 @@ Vamos descobrir o quanto esses fatores impactam e se temos outros fatores não t
 ### Deploy com Streamlit
 - Usuário preenche com a caracteristicas do imóvel localizado no Rio de Janeiro/RJ
 
-![image](https://user-images.githubusercontent.com/65472072/146680392-facb47e6-a210-4b72-bda9-86e7e4cbd26e.png)
-
-![image](https://user-images.githubusercontent.com/65472072/146680448-36cbee23-3117-4036-836f-675d3f622885.png)
-
-![image](https://user-images.githubusercontent.com/65472072/146680477-34d5ce6a-ddfe-43ad-b8fd-eed1fabeb178.png)
-
+![image](https://user-images.githubusercontent.com/65472072/146680760-1048eedf-ab62-4de1-9b3d-b83f75bc884a.png)
+![image](https://user-images.githubusercontent.com/65472072/146680779-a36ec810-e9ea-44d5-8bed-cf6efe55b1f5.png)
+![image](https://user-images.githubusercontent.com/65472072/146680797-af018da2-58da-4d0d-a2f5-1b1006abbe94.png)
 
 #### Bibliotecas utilizadas
 - Todas as bibliotecas utilizadas no projeto listadas abaixo.
